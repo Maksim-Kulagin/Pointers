@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2c34a57a-cb32-4995-84d9-8e40ff043af2}</ProjectGuid>
+    <ProjectGuid>{f3b995ac-eaf8-4237-878d-321c67034e63}</ProjectGuid>
     <RootNamespace>DynamicMemory</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
